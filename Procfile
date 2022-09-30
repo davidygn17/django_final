@@ -1,0 +1,1 @@
+web: gunicorn portifoliodavid.wsgi --log-file -
