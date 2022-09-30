@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-web gunicorn portifoliodavid.wsgi --log-file -
+web: gunicorn portifoliodavid.wsgi --log-file -
 =======
 web: gunicorn portifoliodavid.wsgi --log-file -
 >>>>>>> origin/7
